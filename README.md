@@ -1,6 +1,6 @@
 # GTM Qwarry ID persistence template
 
-![Release](https://img.shields.io/badge/Release-0.1.0-blue.svg)
+![Release](https://img.shields.io/badge/Release-1.0.0-blue.svg)
 
 ## Description
 
