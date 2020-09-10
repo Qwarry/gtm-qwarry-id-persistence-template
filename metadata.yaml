@@ -13,7 +13,7 @@
 # limitations under the License.
 
 homepage: "https://qwarry.com/"
-documentation: "" #TODO
+documentation: "https://qwarry.github.io/gtm-qwarry-doc"
 versions:
   - sha: #TODO
     changeNotes: Initial Version
