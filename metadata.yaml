@@ -15,5 +15,5 @@
 homepage: "https://qwarry.com/"
 documentation: "https://qwarry.github.io/gtm-qwarry-doc"
 versions:
-  - sha: #TODO
+  - sha: 754959ef021d7df737b918e4c51ae7970b9bf6b0
     changeNotes: Initial Version
